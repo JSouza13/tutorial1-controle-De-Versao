@@ -18,9 +18,11 @@ Comandos para controle de versão
 
 - Criar repositório no github, onde o arquivo que está sendo versionado será armazenado;
 
-- Copiar o link e voltar ao gib bash
+- Copiar o link e voltar ao git bash
 
-- "git remote add origin + link copiado" definirá para onde eu estou enviando meu aruivo/codigo;
+- "git remote add origin + link copiado" definirá para onde eu estou enviando meu aruivo/codigo; 
+
+- Para copiar o link no git bash, utilizar Shift + Insert
 
 - "git push -u origin master" para enviar para o github;
 
