@@ -1,1 +1,27 @@
-Ola meu nome é joao
+Comandos para controle de versão
+
+- Criar arquivo que será feito o controle de versão;
+
+- Abrir "Guit Bash Here" na pasta do arquivo;
+
+- "ls" irá trazer os arquivos que estão localizados na pasta;
+
+- "git init" definirá um repositório;
+
+- "git add -A" irá adicionar todos os arquivos da pasta;
+
+- "git status" irá trazer o status;
+
+-  "commit" congelar versão de qualquer codigo ou documento com alterações feitas;
+
+- "git commit -m "descrever oq foi alterado nessa versão"";
+
+- Criar repositório no github, onde o arquivo que está sendo versionado será armazenado;
+
+- Copiar o link e voltar ao gib bash
+
+- "git remote add origin + link copiado" definirá para onde eu estou enviando meu aruivo/codigo;
+
+- "git push -u origin master" para enviar para o github;
+
+ 
