@@ -26,4 +26,10 @@ Comandos para controle de versão
 
 - "git push -u origin master" para enviar para o github;
 
+- Para verificar se foi feito alterações após já ter dado o primeiro "commit" utilizar o "git status", onde irá informar se foi adicionado ou modificado algum item.
+
+- Após isso, utilizar o "git add -A"
+
+- E finalizando com o "git commit -m "descrever oq foi alterado nessa versão""
+
  
